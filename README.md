@@ -1,4 +1,4 @@
-# Proiect DCTC: `<numele echipei>`
+## Proiect clima locală
 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/<utilizator>/<depozit>/blob/main/notebooks/analiza.ipynb)
 [![Verificări depozit](../../actions/workflows/repo-check.yml/badge.svg)](../../actions/workflows/repo-check.yml)
@@ -6,20 +6,20 @@
 
 Disciplina *Dezvoltare colaborativă și tehnologii cloud* (DCTC), Universitatea Tehnică din Cluj-Napoca, Centrul Universitar Nord din Baia Mare.
 
-## Echipa
+## Echipa sunshine
 
 | Nume și prenume | Utilizator GitHub | Program | Rol inițial (s3-s6) | Rol 2 (s6-s10) | Rol 3 (s10-s14) |
 | --- | --- | --- | --- | --- | --- |
-| `<Nume Prenume>` | `<utilizator>` | MI / INF | coordonator | | |
-| `<Nume Prenume>` | `<utilizator>` | MI / INF | responsabil depozit | | |
-| `<Nume Prenume>` | `<utilizator>` | MI / INF | responsabil raport | | |
-| `<Nume Prenume>` | `<utilizator>` | MI / INF | responsabil date și notebook | | |
+| `<Belya Bianca>` | `<belyabianca9>` | MI / INF | coordonator | | |
+| `<Belya Bianca>` | `<belyabianca9>` | MI / INF | responsabil depozit | | |
+| `<Alexia Dirle>` | `<AlexiaDirle21>` | MI / INF | responsabil raport | | |
+| `<Darolti Larisa>` | `<laridarolti>` | MI / INF | responsabil date și notebook | | |
 
-## Tema
+Proiectul nostru are ca temă studiul climei locale, concentrându-se pe analiza evoluției temperaturilor și a precipitațiilor din regiunea noastră în ultimii ani.
 
-**Tema nr. `<n>`: `<titlul temei>`**
+**Tema nr. `<3>`: `<clima locală>`**
 
-Întrebarea studiului: `<o singură propoziție, cu semnul întrebării la final>`
+Întrebarea studiului: `<Cum au evoluat temperaturile medii și precipitațiile în regiunea noastră în ultimii 10 ani?>`
 
 Sursa datelor: vedeți [`data/README.md`](data/README.md).
 
@@ -45,7 +45,7 @@ Sunt în [`CONTRIBUTING.md`](CONTRIBUTING.md): ramuri `feature/utilizator-scop`,
 
 ## Declarație privind utilizarea instrumentelor AI
 
-`Am folosit <instrument> pentru <scop> la <fișier sau secțiune>; am verificat rezultatul prin <metodă>.` sau `Nu am folosit instrumente AI.`
+`Nu am folosit instrumente AI.`
 
 ## Licență
 
