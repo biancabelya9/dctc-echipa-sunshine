@@ -13,7 +13,7 @@ Disciplina *Dezvoltare colaborativă și tehnologii cloud* (DCTC), Universitatea
 | `<Belya Bianca>` | `<belyabianca9>` | MI / INF | coordonator | | |
 | `<Belya Bianca>` | `<belyabianca9>` | MI / INF | responsabil depozit | | |
 | Alexia Dirle | AlexiaDirle21 | MI / INF | responsabil raport | | |
-| `<Darolti Larisa>` | `<laridarolti>` | MI / INF | responsabil date și notebook | | |
+| Darolti Larisa | laridarolti | MI / INF | responsabil date și notebook | | |
 
 Proiectul nostru are ca temă studiul climei locale, concentrându-se pe analiza evoluției temperaturilor și a precipitațiilor din regiunea noastră în ultimii ani.
 
