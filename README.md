@@ -10,8 +10,8 @@ Disciplina *Dezvoltare colaborativă și tehnologii cloud* (DCTC), Universitatea
 
 | Nume și prenume | Utilizator GitHub | Program | Rol inițial (s3-s6) | Rol 2 (s6-s10) | Rol 3 (s10-s14) |
 | --- | --- | --- | --- | --- | --- |
-| `<Belya Bianca>` | `<belyabianca9>` | MI / INF | coordonator | | |
-| `<Belya Bianca>` | `<belyabianca9>` | MI / INF | responsabil depozit | | |
+| Dirle Alexia | AlexiaDirle21 | coordonator |
+| Dirle Alexia | AlexiaDirle21 |responsabil depozit |
 | Alexia Dirle | AlexiaDirle21 | MI / INF | responsabil raport | | |
 | Darolti Larisa | laridarolti | MI / INF | responsabil date și notebook | | |
 
