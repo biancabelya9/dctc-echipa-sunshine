@@ -19,7 +19,7 @@ Proiectul nostru are ca temă studiul climei locale, concentrându-se pe analiza
 
 **Tema nr. `<3>`: `<clima locală>`**
 
-Întrebarea studiului: `<Cum au evoluat temperaturile medii și precipitațiile în regiunea noastră în ultimii 10 ani?>`
+Întrebarea studiului: `<Cum au evoluat temperaturile medii și precipitațiile în regiunea Baia Mare în ultimii 10 ani?>`
 
 Sursa datelor: vedeți [`data/README.md`](data/README.md).
 
