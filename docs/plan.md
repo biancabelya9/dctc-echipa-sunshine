@@ -18,7 +18,7 @@ Fiecare membru adaugă secțiunea proprie pe o ramură `feature/utilizator-plan`
 
 Pana la urmatoarele teme, voi folosi cate un branch pentru fiecare task nou, voi crea de asemenea cate un task in Kanban board. Dupa ce voi crea schimbarile in branchul meu, voi da git push si voi crea un pull request pentru schimbarile mele. Voi cere un review de la un coleg, iar dupa ce pull requestul este aprobat, voi face merge la branch in main, iar apoi voi inchide taskul in Kanban. Riscurile legate de date le vom gestiona in echipa si prin planificari corespunzatoare.
 
-## `<Nume Prenume>` (`<utilizator>`), responsabil date si notebook
+## `<Nume Prenume>` (`<utilizator>`), responsabil date și notebook
 
 `<...>`
 
