@@ -17,9 +17,9 @@ Tema aleasă de echipa noastră este analiza evoluției climei locale în Baia M
 Ca responsabil de depozit, mă voi asigura că structura proiectului pe GitHub rămâne curată, că regulile de protecție pe ramura main sunt respectate și că toate pull request-urile sunt revizuite și îmbinate corect până la T4, T5 și T6. Voi gestiona sincronizarea versiunilor raportului și a scripturilor de analiză, asigurându-mă că fișierele livrabile sunt actualizate la timp. Instrumentele principale utilizate sunt Git, GitHub și VS Code pentru controlul versiunilor, alături de Google Colab pentru verificarea notebook-urilor. Principalele riscuri sunt apariția conflictelor de îmbinare (merge conflicts) și ștergerea accidentală a modificărilor. Acestea vor fi prevenite prin lucrul exclusiv pe ramuri dedicate (feature branches) și prin revizuirea atentă a fiecărui pull request înainte de îmbinare.
 
 
-## `<Nume Prenume>` (`<utilizator>`), responsabil raport
+## `Darolti Larisa` (`laridarolti`), responsabil raport
 
-`<...>`
+Pana la urmatoarele teme, voi folosi cate un branch pentru fiecare task nou, voi crea de asemenea cate un task in Kanban board. Dupa ce voi crea schimbarile in branchul meu, voi da git push si voi crea un pull request pentru schimbarile mele. Voi cere un review de la un coleg, iar dupa ce pull requestul este aprobat, voi face merge la branch in main, iar apoi voi inchide taskul in Kanban. Riscurile legate de date le vom gestiona in echipa si prin planificari corespunzatoare.
 
 ## `Belya Bianca` (`belyabianca9`), responsabil date și notebook
 
