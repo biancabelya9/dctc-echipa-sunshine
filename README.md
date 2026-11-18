@@ -45,7 +45,7 @@ Sunt în [`CONTRIBUTING.md`](CONTRIBUTING.md): ramuri `feature/utilizator-scop`,
 
 ## Declarație privind utilizarea instrumentelor AI
 
-`Nu am folosit instrumente AI.`
+`Nu am folosit niciun instrument AI.`
 
 ## Licență
 

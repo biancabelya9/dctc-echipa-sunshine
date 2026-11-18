@@ -21,9 +21,9 @@ Ca responsabil de depozit, mă voi asigura că structura proiectului pe GitHub r
 
 `<...>`
 
-## `<Nume Prenume>` (`<utilizator>`), responsabil date și notebook
+## `Belya Bianca` (`belyabianca9`), responsabil date și notebook
 
-`<...>`
+`În calitate de responsabil de date și notebook, până la livrabilul T4 mă voi ocupa de colectarea, verificarea și curățarea setului de date ales de echipă. Până la T5 voi dezvolta notebook-ul principal de analiză, unde voi implementa preprocesarea datelor, calculul indicatorilor statistici și generarea graficelor relevante pentru întrebarea studiului. Pentru T6 voi rafina vizualizările, voi adăuga explicații clare lângă fiecare bloc de cod și mă voi asigura că rezultatele sunt ușor de reprodus și exportat pentru raportul final. Ca instrumente principale voi folosi Google Colab și limbajul Python, utilizând biblioteci precum pandas și NumPy pentru manipularea datelor, respectiv Matplotlib sau Seaborn pentru grafice. Principalele riscuri pe care le anticipez sunt prezența valorilor lipsă, formatele inconsistente ale fișierelor sau eventualele erori de sincronizare a versiunilor de cod între colegi. Pentru a gestiona aceste riscuri, voi documenta fiecare pas de curățare a datelor și voi salva periodic versiuni funcționale ale notebook-ului în depozitul echipei.`
 
 ## Calendarul echipei
 
