@@ -15,7 +15,7 @@ Disciplina *Dezvoltare colaborativă și tehnologii cloud* (DCTC), Universitatea
 | Alexia Dirle | AlexiaDirle21 | MI / INF | responsabil raport | | |
 | Darolti Larisa | laridarolti | MI / INF | responsabil date și notebook | responsabil raport | |
 
-Proiectul nostru are ca temă studiul climei locale, concentrându-se pe analiza evoluției temperaturilor și a precipitațiilor din regiunea noastră în ultimii ani.
+**Întrebarea studiului:** Cum au evoluat temperaturile medii anuale și regimul precipitațiilor în regiunea noastră în ultimii ani și ce tendințe sezoniere se observă?
 
 **Tema nr. `<3>`: `<clima locală>`**
 
