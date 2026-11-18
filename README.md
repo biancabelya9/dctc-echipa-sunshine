@@ -34,7 +34,7 @@ Sursa datelor: vedeți [`data/README.md`](data/README.md).
 | Livrabil | Unde se găsește | Termen |
 | --- | --- | --- |
 | T3 depozitul cu pull request-uri revizuite | acest depozit, [`docs/plan.md`](docs/plan.md) | s8 |
-| T4 raportul (schelet, Introducere, bibliografie) | [`report/raport.pdf`](report/raport.pdf), [`report/refs.bib`](report/refs.bib), Overleaf: `<link de vizualizare>` | s10 |
+| T4 raportul (schelet, Introducere, bibliografie) | [`report/raport.pdf`](report/raport.pdf), [`report/refs.bib`](report/refs.bib), Overleaf: https://www.overleaf.com/project/6afdd18e043d41a39de12d35/share#a173f5d53e866658c2fa3ebaa93d2a5803bd4995655054a5 | s10 |
 | T5 notebook-ul reproductibil | [`notebooks/analiza.ipynb`](notebooks/analiza.ipynb) | s12 |
 | T6 pagina proiectului | `<https://utilizator.github.io/depozit/>` | s12 |
 | Versiunea finală | eticheta `v1.0` și release-ul ei, în *Releases* | s13 |
