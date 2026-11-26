@@ -4,23 +4,33 @@ Completați această fișă înainte de a pune fișierul CSV în acest folder. F
 
 | Câmp | Valoare |
 | --- | --- |
-| Fișier | `<nume.csv>` |
-| Sursa (instituție, pagină) | `<de exemplu Eurostat, tabelul demo_pjan, https://...>` |
-| Data descărcării | `<zz.ll.aaaa>` |
-| Licența datelor | `<de exemplu CC BY 4.0, licență deschisă Eurostat>` |
-| Cum a fost obținut fișierul | `<export din interfața web / API / decupare din fișierul original cu ...>` |
-| Prelucrări făcute înainte de commit | `<niciuna / eliminarea coloanelor ... / filtrarea anilor ...>` |
+| Fișier | date.csv |
+| Sursa (instituție, pagină) | Meteostat (Stația meteorologică Baia Mare), https://meteostat.net |
+| Data descărcării | 26.11.2026 |
+| Licența datelor | CC BY-NC 4.0 / Licență deschisă Meteostat |
+| Cum a fost obținut fișierul | Export CSV (date orare) din interfața web Meteostat pentru stația Baia Mare |
+| Prelucrări făcute înainte de commit | Niciuna (fișier brut descărcat) |
 
 ## Coloane
 
 | Coloană | Tip | Semnificație | Unitate |
 | --- | --- | --- | --- |
-| `<an>` | întreg | anul de referință | |
-| `<valoare>` | real | `<ce măsoară>` | `<unitate>` |
+| `time` | dată și oră (`YYYY-MM-DD HH:MM:SS`)| Data și ora înregistrării | - |
+| `temp` | real | Temperatura aerului | °C |
+| `dwpt` | real | Punctul de rouă (dew point) | °C |
+| `rhum` | întreg/real | Umiditatea relativă a aerului | % |
+| `prpc` | real | Cantitate de precipitații | mm |
+| `snow` | întreg/real | Grosimea stratului de zăpadă | mm |
+| `wdir` | întreg | Direcția vântului | ° (grade) |
+| `wspd` | real | Viteza medie a vântului | km/h |
+| `wpgt` | real | Rafala maximă de vânt (peak wind gust) | km/h |
+| `pres` | real | Presiunea atmosferică la nivelul mării | hPa |
+| `tsun` | întreg | Durata de strălucire a soarelui | minute |
+| `coco` | întreg | Codul stării vremii (weather condition code) | - |
 
 ## Citare în raport
 
-Intrarea BibTeX corespunzătoare din `report/refs.bib`: `<cheia intrării>`.
+Intrarea BibTeX corespunzătoare din `report/refs.bib`: `meteostat2026`.
 
 ## Date personale
 
