@@ -4,7 +4,7 @@ Completați această fișă înainte de a pune fișierul CSV în acest folder. F
 
 | Câmp | Valoare |
 | --- | --- |
-| Fișier | date.csv |
+| Fișier | date_clima.csv |
 | Sursa (instituție, pagină) | Meteostat (Stația meteorologică Baia Mare), https://meteostat.net |
 | Data descărcării | 26.11.2026 |
 | Licența datelor | CC BY-NC 4.0 / Licență deschisă Meteostat |
